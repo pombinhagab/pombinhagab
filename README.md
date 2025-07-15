@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! I'm Gabriel do Nascimento 👋</h1> 
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9qNXF0Z3MxdDhsNGpxd2I2aDdsczE0dmEyYTl5ZDNldG1ubXFuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ietzr0Y4BZokXTsttG/giphy.gif" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/Ietzr0Y4BZokXTsttG/giphy.gif" height="200">
+</p>
 
 
 <p align="center">  
