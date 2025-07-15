@@ -1,10 +1,5 @@
 <h1 align="center">Hi there! I'm Gabriel do Nascimento 👋</h1> 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/Ietzr0Y4BZokXTsttG/giphy.gif" height="200">
-</p>
-
-
 <p align="center">  
   Software Engineering Student 💻  
 </p>
@@ -39,4 +34,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pombinhagab&show_icons=true&theme=dracula" alt="Gabriel's GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9qNXF0Z3MxdDhsNGpxd2I2aDdsczE0dmEyYTl5ZDNldG1ubXFuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ietzr0Y4BZokXTsttG/giphy.gif" height="200" />
 </p>
