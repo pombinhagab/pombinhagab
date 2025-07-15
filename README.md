@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! I'm Gabriel do Nascimento 👋</h1> 
 
+<img align="right" height="150" src="https://gifs.alphacoders.com/221664.gif" />
+
 <p align="center">  
   Software Engineering Student 💻  
 </p>
