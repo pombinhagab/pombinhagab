@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 Software Engineering student at Centro Universitário Academia  
-- 🌱 Currently learning **C#** and **Django** at Django Master by Felipe Azambuja
+- 🌱 Currently learning **C#** and **Django** in the Django Master by Felipe Azambuja
 
 ---
 
