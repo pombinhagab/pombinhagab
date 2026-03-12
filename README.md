@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 Software Engineering student at Centro Universitário Academia  
-- 🌱 Currently learning **Node.js** and **Django REST Framework** in the Django Master by Felipe Azambuja
+- 🌱 Currently learning **Java** and **Springboot** in the Django Master by Felipe Azambuja
 
 ---
 
