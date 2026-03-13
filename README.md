@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 - 🎓 Software Engineering student at Centro Universitário Academia  
-- 🌱 Currently learning **Java** and **Springboot** in the Django Master by Felipe Azambuja
+- 🌱 Currently learning **Java** and **Spring Boot** in the Django Master by Felipe Azambuja
 
 ---
 
