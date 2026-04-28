@@ -1,38 +1,38 @@
-<h1 align="center">Hi there! I'm Gabriel do Nascimento 👋</h1> 
+<h1 align="center">Hi there, I'm Gabriel do Nascimento 👋</h1>
 
-<p align="center">  
-  Software Engineering Student 💻  
+<p align="center">
+  Software Engineering Student 💻 · Building things with Python & Django
 </p>
 
 ---
 
-## 📌 About Me
+##  About Me
 
-- 🎓 Software Engineering student at Centro Universitário Academia  
-- 🌱 Currently learning **Java** and **Spring Boot** in the Django Master by Felipe Azambuja
+- Software Engineering student at Centro Universitário Academia
+- Currently learning **JavaScript**
+- Always open to collaborate and learn from others
 
 ---
 
-## 🧰 Technologies I Use
+## Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" alt="Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="30" width="40" alt="Django">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" width="40" alt="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="40" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="40" alt="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" alt="HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" alt="CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" width="40" alt="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="Bootstrap">
-
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- ✉️ Email: [gabrielnascimento12t@gmail.com](mailto:gabrielnascimento12t@gmail.com)
+- ✉️ [gabrielnascimento12t@gmail.com](mailto:gabrielnascimento12t@gmail.com)
 
 ---
 
