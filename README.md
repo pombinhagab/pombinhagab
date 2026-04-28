@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gabriel do Nascimento 👋</h1>
 
 <p align="center">
-  Software Engineering Student 💻 · Building things with Python & Django
+  Software Engineering Student  · Building things with Python & Django
 </p>
 
 ---
